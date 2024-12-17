@@ -1,0 +1,95 @@
+body {
+    background-color: olivedrab;
+}
+
+h3 {
+    color: white;
+    background-color: black;
+    font-size: 35px;
+    border-radius: 15px;
+    display: flex;
+    margin: 0px;
+    padding: 5px 10px 5px 10px;
+}
+
+.con {
+    color: white;
+    font-size: 20px;
+    padding: 20px 0px 10px 50px;
+}
+
+.container {
+    height: auto;
+    width: auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+
+}
+
+.lang {
+    margin: 10px 25px;
+    display: flex;
+    justify-content: end;
+}
+
+.head {
+    color: brown;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+h4 {
+    font-size: 25px;
+    margin: 4px;
+    padding: 0px 20px;
+}
+
+.box summary {
+    font-size: 20px;
+}
+
+.box1 {
+    border: 2px solid rgb(133, 116, 116);
+    box-shadow: inset -15px 0px 35px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 10px 10px 0px 15px;
+    width: auto;
+}
+
+.box2 {
+    border: 2px solid rgb(133, 116, 116);
+    box-shadow: inset -15px 0px 35px rgba(0, 0, 0, 0.5);
+    margin: 10px 10px 0px 15px;
+    border-radius: 10px;
+    width: auto;
+}
+
+.box3 {
+    border: 2px solid rgb(133, 116, 116);
+    box-shadow: inset -15px 0px 35px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 10px 10px 0px 15px;
+    width: auto;
+}
+
+.box4 {
+    border: 2px solid rgb(133, 116, 116);
+    box-shadow: inset -15px 0px 35px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 10px 10px 0px 15px;
+    width: auto;
+}
+
+.box5 {
+    border: 2px solid rgb(133, 116, 116);
+    box-shadow: inset -15px 0px 35px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin: 10px 10px 10px 15px;
+    width: auto;
+}
+
+p {
+    font-size: 20px;
+}
